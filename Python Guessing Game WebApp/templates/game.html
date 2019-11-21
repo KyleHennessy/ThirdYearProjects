@@ -1,0 +1,9 @@
+{% extends "base.html" %}
+
+{% block the_body %}
+            <form method="POST" action="/attempt">
+            <input type="number" name="guessNumber">
+            <br/>
+            <input type="submit" value="Make guess">
+            </form>
+{% endblock %}

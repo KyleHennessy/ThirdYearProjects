@@ -1,0 +1,60 @@
+commit 0a7596173752aaabc0d7e93f0c8d4211e1770fab (HEAD -> master)
+Author: Kyle Hennessy <c00227463@itcarlow.ie>
+Date:   Fri Nov 15 11:00:35 2019 +0000
+
+    All files have been formatted with black
+
+commit ae7ea4fd3ab31843ff4acfdd06678f83dbb38dd0
+Author: Kyle Hennessy <c00227463@itcarlow.ie>
+Date:   Fri Nov 15 10:57:48 2019 +0000
+
+    Comitting the tests with a 96% overall coverage rate and 91% coverage rate of game.py
+
+commit f02c46ec94b17ce55a784e081244d8082ebd186a
+Author: Kyle Hennessy <c00227463@itcarlow.ie>
+Date:   Wed Nov 13 21:06:55 2019 +0000
+
+    Commiting first iteration of tests which has an 80% overall coverage rate
+
+commit 31575f50e07d65989589a31dd41887d93bc391da
+Author: Kyle Hennessy <c00227463@itcarlow.ie>
+Date:   Tue Nov 12 16:28:28 2019 +0000
+
+    Game is fully working, yet to do have any tests
+
+commit cd536b2f3bddb3ce24e67fa521526b977d73af3b
+Author: Kyle Hennessy <c00227463@itcarlow.ie>
+Date:   Tue Nov 12 15:21:42 2019 +0000
+
+    Commiting the scores.pickle file and made some changes to the app.py and .gitignore
+
+commit 731b0f9136744c0a97197064fb3201ffaf9afe13
+Author: Kyle Hennessy <c00227463@itcarlow.ie>
+Date:   Wed Nov 6 14:31:43 2019 +0000
+
+    commting the gitignore file
+
+commit 5bbc268dce06defcbe27f6723c3936ac4ed877e3
+Author: Kyle Hennessy <c00227463@itcarlow.ie>
+Date:   Wed Nov 6 14:28:56 2019 +0000
+
+    Fourth commit
+
+commit 95de2b4f2ef6f555d1d5fe8ce7de031541c11038
+Author: Kyle Hennessy <c00227463@itcarlow.ie>
+Date:   Tue Nov 5 20:23:52 2019 +0000
+
+    Third Commit
+
+commit 418b5e0a28fbf4913d58564698df2d77d32d19d7
+Author: Kyle Hennessy <c00227463@itcarlow.ie>
+Date:   Tue Nov 5 12:26:23 2019 +0000
+
+    Second Commit
+
+commit 9e8fe5e29130192e9afa39091a38c22bb5b0bad1
+Author: Kyle Hennessy <c00227463@itcarlow.ie>
+Date:   Mon Nov 4 14:59:35 2019 +0000
+
+    First commit of assignment
+

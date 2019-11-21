@@ -1,0 +1,10 @@
+{% extends "base.html" %}
+
+{% block the_body %}
+            <form method="POST" action="/record">
+            You have guessed correctly, please enter your name to record your score
+            <input type="text" name="name">
+            <br/>
+            <input type="submit" value="Submit Score">
+            </form>
+{% endblock %}
